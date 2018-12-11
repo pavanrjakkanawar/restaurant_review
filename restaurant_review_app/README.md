@@ -16,5 +16,3 @@ In a terminal, check the version of Python you have: `python -V`. If you have Py
 For Python 3.x, you can use `python3 -m http.server 8000`. If you don't have Python installed, navigate to Python's [website](https://www.python.org/) to download and install the software.
 With your server running, visit the site: `http://localhost:8000`.
 
-## Live Demo
-
